@@ -1,0 +1,209 @@
+
+{
+   "plomeros": [
+        {
+        "nombre": "Nombre2",
+        "apellido": "Apellido2",
+        "descripcion": "Descripción2",
+        "telefono": "987654321",
+        "latitud": 12.34,
+        "longitud": 56.78
+        },
+        {
+          "nombre": "Nombre2",
+        "apellido": "Apellido2",
+        "descripcion": "Descripción2",
+        "telefono": "987654321",
+        "latitud": 12.34,
+        "longitud": 56.78
+        },
+        {
+         
+        },
+        {
+          "nombre": "Juan",
+          "apellido": "Perez",
+          "descripcion": " agregar una descripcion",
+          "telefono": "987654321"
+        },
+        {
+          "nombre": "Juan",
+          "apellido": "Perez",
+          "descripcion": " agregar una descripcion",
+          "telefono": "987654321"
+        },        {
+          "nombre": "Juan",
+          "apellido": "Perez",
+          "descripcion": " agregar una descripcion",
+          "telefono": "987654321"
+        },{
+          "nombre": "Juan",
+          "apellido": "Perez",
+          "descripcion": " agregar una descripcion",
+          "telefono": "987654321"
+        },{
+          "nombre": "Juan",
+          "apellido": "Perez",
+          "descripcion": " agregar una descripcion",
+          "telefono": "987654321"
+        }
+      ] ,
+      "gasistas": [
+        {
+          "nombre": "Juan",
+          "apellido":"Perez",
+          "descripcion": " agregar una descripcion",
+          "telefono": "123456789"
+        },
+        {
+          "nombre": "Juan",
+          "apellido":"Perez",
+          "descripcion": " agregar una descripcion",
+          "telefono": "987654321"
+        },
+        {
+          "nombre": "Juan",
+          "apellido":"Perez",
+          "descripcion": " agregar una descripcion",
+          "telefono": "987654321"
+        },
+        {
+          "nombre": "Juan",
+          "apellido":"Perez",
+          "descripcion": " agregar una descripcion",
+          "telefono": "987654321"
+        }
+  
+      ],
+      "albañiles": [
+        {
+          "nombre": "Pedro",
+          "apellido": "Gonzalez",
+          "descripcion": " agregar una descripcion",
+          "telefono": "123456789"
+        },
+        {
+          "nombre": "Juan",
+          "apellido": "Perez",
+          "descripcion": " agregar una descripcion",
+          "telefono": "987654321"
+        },
+        {
+          "nombre": "Juan",
+          "apellido": "Perez",
+          "descripcion": " agregar una descripcion",
+          "telefono": "987654321"
+        },
+        {
+          "nombre": "Juan",
+          "apellido": "Perez",
+          "descripcion": " agregar una descripcion",
+          "telefono": "987654321"
+        }
+      ],
+      "desagotadores": [
+        {
+          "nombre": "Pedro1",
+          "apellido": "Gonzalez",
+          "descripcion": " agregar una descripcion",
+          "telefono": "123456789"
+        },
+        {
+          "nombre": "Juan",
+          "apellido": "Perez",
+          "descripcion": " agregar una descripcion",
+          "telefono": "987654321"
+        },
+        {
+          "nombre": "Juan",
+          "apellido": "Perez",
+          "descripcion": " agregar una descripcion",
+          "telefono": "987654321"
+        },
+        {
+          "nombre": "Juan",
+          "apellido": "Perez",
+          "descripcion": " agregar una descripcion",
+          "telefono": "987654321"
+        }
+      ],
+      "mecanicos": [
+        {
+          "nombre": "Pedro",
+          "apellido": "Gonzalez",
+          "descripcion": " agregar una descripcion",
+          "telefono": "123456789"
+        },
+        {
+          "nombre": "Juan",
+          "apellido": "Perez",
+          "descripcion": " agregar una descripcion",
+          "telefono": "987654321"
+        },
+        {
+          "nombre": "Juan",
+          "apellido": "Perez",
+          "descripcion": " agregar una descripcion",
+          "telefono": "987654321"
+        },
+        {
+          "nombre": "Juan",
+          "apellido": "Perez",
+          "descripcion": " agregar una descripcion",
+          "telefono": "987654321"
+        }
+      ],
+      "gomerias": [
+        {
+          "nombre": "Pedro",
+          "apellido": "Gonzalez",
+          "descripcion": " agregar una descripcion",
+          "telefono": "123456789"
+        },
+        {
+          "nombre": "Juan",
+          "apellido": "Perez",
+          "descripcion": " agregar una descripcion",
+          "telefono": "987654321"
+        },
+        {
+          "nombre": "Juan",
+          "apellido": "Perez",
+          "descripcion": " agregar una descripcion",
+          "telefono": "987654321"
+        },
+        {
+          "nombre": "Juan",
+          "apellido": "Perez",
+          "descripcion": " agregar una descripcion",
+          "telefono": "987654321"
+        }
+      ],
+      "acarreos": [
+        {
+          "nombre": "Pedro",
+          "apellido": "Gonzalez",
+          "descripcion": " agregar una descripcion",
+          "telefono": "123456789"
+        },
+        {
+          "nombre": "Juan",
+          "apellido": "Perez",
+          "descripcion": " agregar una descripcion",
+          "telefono": "987654321"
+        },
+        {
+          "nombre": "Juan",
+          "apellido": "Perez",
+          "descripcion": " agregar una descripcion",
+          "telefono": "987654321"
+        },
+        {
+          "nombre": "Juan",
+          "apellido": "Perez",
+          "descripcion": " agregar una descripcion",
+          "telefono": "987654321"
+        }
+      ]
+    }
+    

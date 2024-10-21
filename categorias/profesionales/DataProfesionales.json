@@ -1,0 +1,134 @@
+{
+    "abogados":[
+        {
+          "nombre": "Abogado",
+          "apellido": "1",
+          "descripcion": " agregar una descripcion",
+          "telefono": "123456789"
+        },
+        {
+          "nombre": "Abogado",
+          "apellido": "2",
+          "descripcion": " agregar una descripcion",
+          "telefono": "123456789"
+        },
+        {
+            "nombre": "Abogado",
+          "apellido": "3",
+          "descripcion": " agregar una descripcion",
+          "telefono": "123456789"
+        },
+        {
+            "nombre": "Abogado",
+          "apellido": "4",
+          "descripcion": " agregar una descripcion",
+          "telefono": "123456789"
+        },
+        {
+            "nombre": "5",
+          "apellido": "Gonzalez",
+          "descripcion": " agregar una descripcion",
+          "telefono": "123456789"
+        },
+        {
+            "nombre": "Abogado",
+          "apellido": "6",
+          "descripcion": " agregar una descripcion",
+          "telefono": "123456789"
+        }
+],
+"contadores":[
+    {
+        "nombre": "Contador",
+        "apellido": "1",
+        "descripcion": "Descripción2",
+        "telefono": "987654321",
+        "latitud": 12.34,
+        "longitud": 56.78
+    },
+    {
+        "nombre": "Contador",
+        "apellido": "2",
+        "descripcion": "Descripción2",
+        "telefono": "987654321",
+        "latitud": 12.34,
+        "longitud": 56.78
+    },
+    {
+        "nombre": "Contador",
+        "apellido": "3",
+        "descripcion": "Descripción2",
+        "telefono": "987654321",
+        "latitud": 12.34,
+        "longitud": 56.78
+    },
+    {
+        "nombre": "Contador",
+        "apellido": "4",
+        "descripcion": "Descripción2",
+        "telefono": "987654321",
+        "latitud": 12.34,
+        "longitud": 56.78
+    }
+],
+"inmobiliarios":[
+    {
+        "nombre": "inmobiliario",
+        "apellido": "1",
+        "descripcion": "Descripción2",
+        "telefono": "987654321",
+        "latitud": 12.34,
+        "longitud": 56.78
+    },
+    {
+        "nombre": "inmobiliario",
+        "apellido": "2",
+        "descripcion": "Descripción2",
+        "telefono": "987654321",
+        "latitud": 12.34,
+        "longitud": 56.78
+    },
+    {
+        "nombre": "inmobiliario",
+        "apellido": "3",
+        "descripcion": "Descripción2",
+        "telefono": "987654321",
+        "latitud": 12.34,
+        "longitud": 56.78
+    },
+    {
+        "nombre": "inmobiliario",
+        "apellido": "4",
+        "descripcion": "Descripción2",
+        "telefono": "987654321",
+        "latitud": 12.34,
+        "longitud": 56.78
+    }
+],
+"seguros":[
+    {
+        "nombre": "Seguro",
+        "apellido": "1",
+        "descripcion": "Descripción2",
+        "telefono": "987654321",
+        "latitud": 12.34,
+        "longitud": 56.78
+    },
+    {
+        "nombre": "Seguro",
+        "apellido": "2",
+        "descripcion": "Descripción2",
+        "telefono": "987654321",
+        "latitud": 12.34,
+        "longitud": 56.78
+    },
+    {
+        "nombre": "Seguro",
+        "apellido": "3",
+        "descripcion": "Descripción2",
+        "telefono": "987654321",
+        "latitud": 12.34,
+        "longitud": 56.78
+    }
+]
+}

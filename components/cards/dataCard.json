@@ -1,0 +1,119 @@
+{
+  "Agua": [
+    {
+      "titulo": "Agua",
+      "imagen": "./splash.png",
+      "direccion": "Siempre viva 123",
+      "horarios": "08:00 a 12:30 | 16:00 a 21:00",
+      "telefono": "123456789",
+      "ubicacion": "Siempre viva 123"
+    } 
+  ], 
+  "Comuna": [
+        {
+          "titulo": "Comuna",
+          "imagen": "./splash.png",
+          "direccion": "Siempre viva 123",
+          "horarios": "08:00 a 12:30 | 16:00 a 21:00",
+          "telefono": "123456789",
+          "ubicacion": "Siempre viva 123"
+        } 
+      ],
+      "Farmacias": [
+        {
+          "titulo": "farmacia",
+          "imagen": "./splash.png",
+          "horarios": "08:00 a 12:30 | 16:00 a 21:00",
+          "telefono": "123456789",
+          "direccion": "Siempre viva 123"
+        }
+      ],
+        "Policia": [
+        {
+          "titulo": "Policia",
+          "imagen": "./splash.png",
+          "direccion": "Siempre viva 123",
+          "horarios": "08:00 a 12:30 | 16:00 a 21:00",
+          "telefono": "123456789",
+          "ubicacion": "Siempre viva 123"
+        }   
+      ],
+      "Bomberos": [
+        {
+            "titulo": "Bomberos",
+            "imagen": "./splash.png",
+            "horarios": "08:00 a 12:30 | 16:00 a 21:00",
+            "direccion": "Siempre viva 123",
+            "telefono": "123456789"
+        }   
+      ],
+       "Jubilados": [
+        {
+            "titulo": "Jubilados",
+            "imagen": "./splash.png",
+            "horarios": "08:00 a 12:30 | 16:00 a 21:00",
+            "direccion": "Siempre viva 123",
+            "telefono": "123456789"
+        }   
+      ],
+      "Colectivo": [
+        {
+            "titulo": "Colectivo",
+            "imagen": "./interbus-img.jpg",
+            "direccion": "Siempre viva 123",
+            "horarios":"08:00 a 12:30 | 16:00 a 21:00",
+            "horariosModal":"./horariosNormales.jpg",
+            "telefono": "123456789"
+        }   
+      ],
+      "Samco": [
+        {
+            "titulo": "Samco",
+            "imagen": "./splash.png",
+            "direccion": "Siempre viva 123",
+            "horarios":"08:00 a 12:30 | 16:00 a 21:00",
+            "telefono": "123456789"
+        }   
+      ],
+      "Epe": [
+        {
+            "titulo": "Epe",
+            "imagen": "./splash.png",
+            "direccion": "Siempre viva 123",
+            "horarios":"08:00 a 12:30 | 16:00 a 21:00",
+            "telefono": "123456789"
+        }   
+      ],
+      "Religion": [
+        {
+            "titulo": "Iglesia 1",
+            "imagen": "splash.png",
+            "direccion": "Siempre viva 123",
+            "horarios":"08:00 a 12:30 | 16:00 a 21:00",
+            "telefono": "123456789"
+        },
+        {
+          "titulo": "Iglesia 2",
+            "imagen": "splash.png",
+            "direccion": "Siempre viva 123",
+            "horarios":"08:00 a 12:30 | 16:00 a 21:00",
+            "telefono": "123456789"
+        }
+      ],"Bancos": [
+        {
+            "titulo": "Macro",
+            "imagen": "splash.png",
+            "direccion": "Siempre viva 123",
+            "horarios":"08:00 a 12:30 | 16:00 a 21:00",
+            "telefono": "123456789"
+        },
+        {
+          "titulo": "Santa fe",
+            "imagen": "splash.png",
+            "direccion": "Siempre viva 123",
+            "horarios":"08:00 a 12:30 | 16:00 a 21:00",
+            "telefono": "123456789"
+        }
+      ]
+    }
+    

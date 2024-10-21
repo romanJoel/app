@@ -1,0 +1,211 @@
+{
+    "kioskos":[
+        {
+          "nombre": "kiosko 1",
+          "imagen": "/imagenes/fotoFarmaciaNencioni.jpg",
+          "direccion": "Avenida 456",
+          "horarios": [
+            { "dias": "Lunes a Viernes",
+             "horario": "08:00 - 12:30 / 17:00 - 21:00"
+             },
+            { "dias": "Sábado", "horario": "08:00 - 12:30" }
+          ]
+        },
+        {
+          "nombre": "kiosko 2",
+          "imagen": "/imagenes/fotoFarmaciaNencioni.jpg",
+          "direccion": "Avenida 456",
+          "horarios": [
+            { "dias": "Lunes a Viernes",
+             "horario": "08:00 - 12:30 / 17:00 - 21:00"
+             },
+            { "dias": "Sábado", "horario": "08:00 - 12:30" }
+          ]
+        },
+        {
+          "nombre": "kiosko 3",
+          "imagen": "/imagenes/fotoFarmaciaNencioni.jpg",
+          "direccion": "Avenida 456",
+          "horarios": [
+            { "dias": "Lunes a Viernes",
+             "horario": "08:00 - 12:30 / 17:00 - 21:00"
+             },
+            { "dias": "Sábado", "horario": "08:00 - 12:30" }
+          ]
+        },
+        {
+          "nombre": "kiosko 4",
+          "imagen": "/imagenes/fotoFarmaciaNencioni.jpg",
+          "direccion": "Avenida 456",
+          "horarios": [
+            { "dias": "Lunes a Viernes",
+             "horario": "08:00 - 12:30 / 17:00 - 21:00"
+             },
+            { "dias": "Sábado", "horario": "08:00 - 12:30" }
+          ]
+        }
+      ],
+"almacenes":[
+    {
+        "nombre": "nombre",
+        "apellido": "apellido",
+        "imagen": "./hw.png",
+        "descripcion": "descripcion",
+        "ubicacion": "ubicacion",
+        "whatsapp": "+543402502639",
+        "telefono": "3402 461602"
+    },
+    {
+        "nombre": "nombre",
+        "apellido": "apellido",
+        "imagen": "./hw.png",
+        "descripcion": "descripcion",
+        "ubicacion": "ubicacion",
+        "whatsapp": "+543402502639",
+        "telefono": "3402 461602"
+    },
+    {
+        "nombre": "nombre",
+        "apellido": "apellido",
+        "imagen": "./hw.png",
+        "descripcion": "descripcion",
+        "ubicacion": "ubicacion",
+        "whatsapp": "+543402502639",
+        "telefono": "3402 461602"
+    },
+    {
+        "nombre": "nombre",
+        "apellido": "apellido",
+        "imagen": "./hw.png",
+        "descripcion": "descripcion",
+        "ubicacion": "ubicacion",
+        "whatsapp": "+543402502639",
+        "telefono": "3402 461602"
+    }
+],
+"carnicerias":[
+    {
+        "nombre": "nombre",
+        "apellido": "apellido",
+        "imagen":"./hw.png",
+        "descripcion":"descripcion",
+        "ubicacion":"ubicacion",
+        "whatsapp":"+543402502639",
+        "telefono":"3402 461602"
+    },
+    {
+        "nombre": "nombre",
+        "apellido": "apellido",
+        "imagen":"./hw.png",
+        "descripcion":"descripcion",
+        "ubicacion":"ubicacion",
+        "whatsapp":"+543402502639",
+        "telefono":"3402 461602"
+    },
+    {
+        "nombre": "nombre",
+        "apellido": "apellido",
+        "imagen":"./hw.png",
+        "descripcion":"descripcion",
+        "ubicacion":"ubicacion",
+        "whatsapp":"+543402502639",
+        "telefono":"3402 461602"
+    },
+    {
+        "nombre": "nombre",
+        "apellido": "apellido",
+        "imagen":"./hw.png",
+        "descripcion":"descripcion",
+        "ubicacion":"ubicacion",
+        "whatsapp":"+543402502639",
+        "telefono":"3402 461602"
+    }
+],
+"supermercados":[
+    {
+        "nombre":"nombre",
+        "apellido":"apellido",
+        "imagen":"./hw.png",
+        "descripcion":"descripcion",
+        "ubicacion":"ubicacion",
+        "whatsapp":"+543402502639",
+        "telefono":"3402 461602"
+    },
+    {
+        "nombre":"nombre",
+        "apellido":"apellido",
+        "imagen":"./hw.png",
+        "descripcion":"descripcion",
+        "ubicacion":"ubicacion",
+        "whatsapp":"+543402502639",
+        "telefono":"3402 461602"
+    },
+    {
+        "nombre":"nombre",
+        "apellido":"apellido",
+        "imagen":"./hw.png",
+        "descripcion":"descripcion",
+        "ubicacion":"ubicacion",
+        "whatsapp":"+543402502639",
+        "telefono":"3402 461602"
+    }
+],
+"gimnasios": [
+        {
+            "nombre":"nombre",
+            "apellido":"apellido",
+            "imagen":"./hw.png",
+            "descripcion":"descripcion",
+            "ubicacion":"ubicacion",
+            "whatsapp":"+543402502639",
+            "telefono":"3402 461602"
+        },
+        {
+            "nombre":"nombre",
+            "apellido":"apellido",
+            "imagen":"./hw.png",
+            "descripcion":"descripcion",
+            "ubicacion":"ubicacion",
+            "whatsapp":"+543402502639",
+            "telefono":"3402 461602"
+        },
+        {
+            "nombre":"nombre",
+            "apellido":"apellido",
+            "imagen":"./hw.png",
+            "descripcion":"descripcion",
+            "ubicacion":"ubicacion",
+            "whatsapp":"+543402502639",
+            "telefono":"3402 461602"
+        }
+],
+"heladerias": [
+    {
+        "nombre":"nombre",
+        "apellido":"apellido",
+        "imagen":"./hw.png",
+        "descripcion":"descripcion",
+        "ubicacion":"ubicacion",
+        "whatsapp":"+543402502639",
+        "telefono":"3402 461602"
+    },
+    {
+        "nombre":"nombre",
+        "apellido":"apellido",
+        "imagen":"./hw.png",
+        "descripcion":"descripcion",
+        "ubicacion":"ubicacion",
+        "whatsapp":"+543402502639",
+        "telefono":"3402 461602"
+    },
+    {
+        "nombre":"nombre",
+        "apellido":"apellido",
+        "imagen":"./hw.png",
+        "descripcion":"descripcion",
+        "ubicacion":"ubicacion",
+        "whatsapp":"+543402502639",
+        "telefono":"3402 461602"
+    }
+]
+}

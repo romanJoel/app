@@ -1,0 +1,378 @@
+{
+  "remises": [
+      {
+        "imagen": "/imagenes/auto-1.jpeg",
+        "nombre": "Pedro",
+        "apellido": "Gonzalez",
+        "vehiculo":"Logan",
+        "patente": "ABC 123 456",
+        "whatsapp": "+543402502639",
+        "telefono": "123456789"
+      },
+      {
+        "imagen": "/imagenes/auto-1.jpeg",
+        "nombre": "Juan",
+        "apellido": "Perez",
+        "vehiculo":"Logan",
+        "patente": "ABC 123 456",
+        "whatsapp": "+543402502639",
+        "telefono": "987654321"
+      },
+      {
+        "imagen": "/imagenes/auto-1.jpg",
+        "nombre": "Juan",
+        "apellido": "Perez",
+        "vehiculo":"Logan",
+        "patente": "ABC 123 456",
+        "whatsapp": "+543402502639",
+        "telefono": "987654321"
+      },
+      {
+        "imagen": "/imagenes/auto-1.jpg",
+        "nombre": "Juan",
+        "apellido": "Perez",
+        "vehiculo":"Logan",
+        "patente": "ABC 123 456",
+        "whatsapp": "+543402502639",
+        "telefono": "987654321"
+      },
+      {
+        "imagen": "/imagenes/auto-1.jpg",
+        "nombre": "Juan",
+        "apellido": "Perez",
+        "vehiculo":"Logan",
+        "patente": "ABC 123 456",
+        "whatsapp": "+543402502639",
+        "telefono": "987654321"
+      },
+      {
+        "imagen": "/imagenes/auto-1.jpg",
+        "nombre": "Juan",
+        "apellido": "Perez",
+        "vehiculo":"Logan",
+        "patente": "ABC 123 456",
+        "whatsapp": "+543402502639",
+        "telefono": "987654321"
+      },
+      {
+        "imagen": "/imagenes/auto-1.jpg",
+        "nombre": "Juan",
+        "apellido": "Perez",
+        "vehiculo":"Logan",
+        "patente": "ABC 123 456",
+        "whatsapp": "+543402502639",
+        "telefono": "987654321"
+      },
+      {
+        "imagen": "/imagenes/auto-1.jpg",
+        "nombre": "Juan",
+        "apellido": "Perez",
+        "vehiculo":"Logan",
+        "patente": "ABC 123 456",
+        "whatsapp": "+543402502639",
+        "telefono": "987654321"
+      },
+      {
+        "imagen": "/imagenes/auto-1.jpg",
+        "nombre": "Juan",
+        "apellido": "Perez",
+        "vehiculo":"Logan",
+        "patente": "ABC 123 456",
+        "whatsapp": "+543402502639",
+        "telefono": "987654321"
+      },
+      {
+        "imagen": "/imagenes/auto-1.jpg",
+        "nombre": "Juan",
+        "apellido": "Perez",
+        "vehiculo":"Logan",
+        "patente": "ABC 123 456",
+        "whatsapp": "+543402502639",
+        "telefono": "987654321"
+      },
+      {
+        "imagen": "/imagenes/auto-1.jpg",
+        "nombre": "Juan",
+        "apellido": "Perez",
+        "vehiculo":"Logan",
+        "patente": "ABC 123 456",
+        "whatsapp": "+543402502639",
+        "telefono": "987654321"
+      },
+      {
+        "imagen": "/imagenes/auto-1.jpg",
+        "nombre": "Juan",
+        "apellido": "Perez",
+        "vehiculo":"Logan",
+        "patente": "ABC 123 456",
+        "whatsapp": "+543402502639",
+        "telefono": "987654321"
+      },
+      {
+        "imagen": "/imagenes/auto-1.jpg",
+        "nombre": "Juan",
+        "apellido": "Perez",
+        "vehiculo":"Logan",
+        "patente": "ABC 123 456",
+        "whatsapp": "+543402502639",
+        "telefono": "987654321"
+      }
+    
+    ],
+    "farmacias": [
+      {
+        "nombre": "farmacia 1",
+        "imagen": "/imagenes/fotoFarmaciaNencioni.jpg",
+        "direccion": "Avenida 456",
+        "horarios": [
+          { "dias": "Lunes a Viernes",
+           "horario": "08:00 - 12:30, 17:00 - 21:00"
+           },
+          { "dias": "Sábado", "horario": "08:00 - 12:30" }
+        ]
+      },
+      {
+        "nombre": "Farmacia 2",
+        "imagen": "./imagenes/fotoFarmaciaNencioni.jpg",
+        "direccion": "Calle 123",
+        "horarios": [
+          { "dias": "Lunes a Viernes", "horario": "08:00 - 12:30, 17:00 - 21:00" },
+          { "dias": "Sábado", "horario": "08:00 - 12:30" }]
+      },
+      {
+        "nombre": "Farmacia 3",
+        "imagen": "./imagenes/fotoFarmaciaNencioni.jpg",
+        "direccion": "Calle 123",
+        "horarios": [
+          { "dias": "Lunes a Viernes", "horario": "08:00 - 12:30, 17:00 - 21:00" },
+          { "dias": "Sábado", "horario": "08:00 - 12:30" }]
+      },
+      {
+        "nombre": "Farmacia 4",
+        "imagen": "./imagenes/fotoFarmaciaNencioni.jpg",
+        "direccion": "Calle 123",
+        "horarios": [
+          { "dias": "Lunes a Viernes", "horario": "08:00 - 12:30, 17:00 - 21:00" },
+          { "dias": "Sábado", "horario": "08:00 - 12:30" }]
+      },
+      {
+        "nombre": "Farmacia 5",
+        "imagen": "../assets/images/fotoFarmaciaNencioni.jpg",
+        "direccion": "Calle 123",
+        "horarios": [
+          { "dias": "Lunes a Viernes", "horario": "08:00 - 12:30, 17:00 - 21:00" },
+          { "dias": "Sábado", "horario": "08:00 - 12:30" }]
+      },
+      {
+        "nombre": "Farmacia 6",
+        "imagen": "./imagenes/fotoFarmaciaNencioni.jpg",
+        "direccion": "Calle 123",
+        "horarios": [
+          { "dias": "Lunes a Viernes", "horario": "08:00 - 12:30, 17:00 - 21:00" },
+          { "dias": "Sábado", "horario": "08:00 - 12:30" }]
+      },
+      {
+        "nombre": "Farmacia 7",
+        "imagen": "./imagenes/fotoFarmaciaNencioni.jpg",
+        "direccion": "Calle 123",
+        "horarios": [
+          { "dias": "Lunes a Viernes", "horario": "08:00 - 12:30, 17:00 - 21:00" },
+          { "dias": "Sábado", "horario": "08:00 - 12:30" }]
+      },
+      {
+        "nombre": "Farmacia 8",
+        "imagen": "./imagenes/fotoFarmaciaNencioni.jpg",
+        "direccion": "Calle 123",
+        "horarios": [
+          { "dias": "Lunes a Viernes", "horario": "08:00 - 12:30, 17:00 - 21:00" },
+          { "dias": "Sábado", "horario": "08:00 - 12:30" }]
+      },
+      {
+        "nombre": "Farmacia 9",
+        "imagen": "./imagenes/fotoFarmaciaNencioni.jpg",
+        "direccion": "Calle 123",        "horarios": [
+          { "dias": "Lunes a Viernes", "horario": "08:00 - 12:30, 17:00 - 21:00" },
+          { "dias": "Sábado", "horario": "08:00 - 12:30" }]
+      },
+      {
+        "nombre": "Farmacia 10",
+        "imagen": "./imagenes/fotoFarmaciaNencioni.jpg",
+        "direccion": "Calle 123",
+        "horarios": [
+          { "dias": "Lunes a Viernes", "horario": "08:00 - 12:30, 17:00 - 21:00" },
+          { "dias": "Sábado", "horario": "08:00 - 12:30" }]
+      },
+      {
+        "nombre": "Farmacia 11",
+        "imagen": "./imagenes/fotoFarmaciaNencioni.jpg",
+        "direccion": "Calle 123",
+        "horarios": [
+          { "dias": "Lunes a Viernes", "horario": "08:00 - 12:30, 17:00 - 21:00" },
+          { "dias": "Sábado", "horario": "08:00 - 12:30" }]
+      }
+    ],
+    "sanatorios":[
+      {
+        "nombre": "sanatorio",
+        "imagen": "/imagenes/fotoFarmaciaNencioni.jpg",
+        "direccion": "Avenida 456",
+        "horarios": [
+          { "dias": "Lunes a Viernes",
+           "horario": "08:00 - 12:30 / 17:00 - 21:00"
+           },
+          { "dias": "Sábado", "horario": "08:00 - 12:30" }
+        ]
+      },
+      {
+        "nombre": "sanatorio",
+        "imagen": "/imagenes/fotoFarmaciaNencioni.jpg",
+        "direccion": "Avenida 456",
+        "horarios": [
+          { "dias": "Lunes a Viernes",
+           "horario": "08:00 - 12:30 / 17:00 - 21:00"
+           },
+          { "dias": "Sábado", "horario": "08:00 - 12:30" }
+        ]
+      },
+      {
+        "nombre": "sanatorio",
+        "imagen": "/imagenes/fotoFarmaciaNencioni.jpg",
+        "direccion": "Avenida 456",
+        "horarios": [
+          { "dias": "Lunes a Viernes",
+           "horario": "08:00 - 12:30 / 17:00 - 21:00"
+           },
+          { "dias": "Sábado", "horario": "08:00 - 12:30" }
+        ]
+      },
+      {
+        "nombre": "sanatorio",
+        "imagen": "/imagenes/fotoFarmaciaNencioni.jpg",
+        "direccion": "Avenida 456",
+        "horarios": [
+          { "dias": "Lunes a Viernes",
+           "horario": "08:00 - 12:30 / 17:00 - 21:00"
+           },
+          { "dias": "Sábado", "horario": "08:00 - 12:30" }
+        ]
+      }
+    ],
+      "educacion": [
+        {
+          "nombre": "Jardín Maternal Primeros Pasos",
+          "imagen": "ruta/de/la/imagen1.jpg",
+          "horarios": [
+            { "dias": "Lunes a Viernes",
+             "horario": "08:00 - 12:30 / 17:00 - 21:00"
+             },
+            { "dias": "Sábado", "horario": "08:00 - 12:30" }
+          ],
+          "direccion": "Calle 123",
+          "telefono": "123456789",
+          "whatsapp": "123456789",
+          "ubicacion": "ubicacion"
+        },
+        {
+          "nombre": "Jardín Babataky",
+          "imagen": "ruta/de/la/imagen2.jpg",
+          "horarios": [
+            { "dias": "Lunes a Viernes",
+             "horario": "08:00 - 12:30 / 17:00 - 21:00"
+             },
+            { "dias": "Sábado", "horario": "08:00 - 12:30" }
+          ],
+          "direccion": "Avenida XYZ",
+          "telefono": "987654321",
+          "whatsapp": "987654321",
+          "ubicacion": "ubicacion"
+        },
+        {
+          "nombre": "Primaria Santa Justina",
+          "imagen": "ruta/de/la/imagen3.jpg",
+          "horarios": [
+            { "dias": "Lunes a Viernes",
+             "horario": "08:00 - 12:30 / 17:00 - 21:00"
+             },
+            { "dias": "Sábado", "horario": "08:00 - 12:30" }
+          ],
+          "direccion": "Calle Principal",
+          "telefono": "555555555",
+          "whatsapp": "555555555",
+          "ubicacion": "ubicacion"
+        },
+        {
+          "nombre": "Primaria Fiscal",
+          "imagen": "ruta/de/la/imagen4.jpg",
+          "horarios": [
+            { "dias": "Lunes a Viernes",
+             "horario": "08:00 - 12:30 / 17:00 - 21:00"
+             },
+            { "dias": "Sábado", "horario": "08:00 - 12:30" }
+          ],
+          "direccion": "Avenida Central",
+          "telefono": "999999999",
+          "whatsapp": "999999999",
+          "ubicacion": "ubicacion"
+        },
+        {
+          "nombre": "Secundaria Santa Justina",
+          "imagen": "ruta/de/la/imagen5.jpg",
+          "horarios": [
+            { "dias": "Lunes a Viernes",
+             "horario": "08:00 - 12:30 / 17:00 - 21:00"
+             },
+            { "dias": "Sábado", "horario": "08:00 - 12:30" }
+          ],
+          "direccion": "Calle Secundaria",
+          "telefono": "777777777",
+          "whatsapp": "777777777",
+          "ubicacion": "ubicacion"
+        },
+        {
+          "nombre": "Secundaria Jorge Newbery",
+          "imagen": "ruta/de/la/imagen6.jpg",
+          "horarios": [
+            { "dias": "Lunes a Viernes",
+             "horario": "08:00 - 12:30 / 17:00 - 21:00"
+             },
+            { "dias": "Sábado", "horario": "08:00 - 12:30" }
+          ],
+          "direccion": "Avenida Newbery",
+          "telefono": "888888888",
+          "whatsapp": "888888888",
+          "ubicacion": "ubicacion"
+        }
+      ],
+      "clubes": [
+        {
+          "nombre": "Sportivo",
+          "imagen": "ruta/de/la/imagen1.jpg",
+          "horarios": [
+            { "dias": "Lunes a Viernes",
+             "horario": "08:00 - 12:30 / 17:00 - 21:00"
+             },
+            { "dias": "Sábado", "horario": "08:00 - 12:30" }
+          ],
+          "direccion": "Calle 123",
+          "telefono": "123456789",
+          "whatsapp": "123456789",
+          "ubicacion": "ubicacion"
+        },
+        {
+          "nombre": "Union",
+          "imagen": "ruta/de/la/imagen2.jpg",
+          "horarios": [
+            { "dias": "Lunes a Viernes",
+             "horario": "08:00 - 12:30 / 17:00 - 21:00"
+             },
+            { "dias": "Sábado", "horario": "08:00 - 12:30" }
+          ],
+          "direccion": "Avenida XYZ",
+          "telefono": "987654321",
+          "whatsapp": "987654321",
+          "ubicacion": "ubicacion"
+        }
+      ]
+    }
+
+  
